@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Game Design - Wikipedia</title>
+    <subtitle>Quelques pages à propos du game design.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://abridge.netlify.app/tags/wikipedia/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://abridge.netlify.app"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-09-13T08:05:00+00:00</updated>
+    <id>https://abridge.netlify.app/tags/wikipedia/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Game design</title>
+        <published>2024-09-13T08:05:00+00:00</published>
+        <updated>2024-09-13T08:05:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/game-design/"/>
+        <id>https://abridge.netlify.app/game-design/</id>
+        
+        <content type="html" xml:base="https://abridge.netlify.app/game-design/">&lt;p&gt;Le game design — en français la conception de jeux — est le processus de création et de mise au point des règles et autres éléments constitutifs d&#x27;un jeu. L&#x27;expression, qui s&#x27;applique à tout type de jeu, dont les jeux de société et les jeux de cartes, a connu un regain d&#x27;intérêt à la suite de l&#x27;apparition et de la popularisation des jeux vidéo.&lt;&#x2F;p&gt;
+&lt;aside&gt;
+&lt;&#x2F;aside&gt;
+&lt;h2 id=&quot;historique&quot;&gt;Historique&lt;&#x2F;h2&gt;
+&lt;p&gt;Les jeux ont été étudiés tout d&#x27;abord aux plans historique ou anthropologique, notamment par des personnalités comme Johan Huizinga ou Roger Caillois. À la fin du XXe siècle est apparu le mouvement des sciences du jeu (en anglais game studies), ayant pour objet de traiter du jeu comme d&#x27;une discipline académique à part entière.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;regles&quot;&gt;Règles&lt;&#x2F;h2&gt;
+&lt;p&gt;Regroupant les éléments d&#x27;un jeu vidéo que sont l&#x27;intrigue et la façon dont on y joue, le gameplay est au cœur du design.&lt;&#x2F;p&gt;
+&lt;p&gt;L&#x27;une des règles du game design spécifique au jeu vidéo est la « règle des 3 C » pour camera (caméra), control (commandes), character (personnage). Elle définit ces trois éléments interdépendants et considérés comme cruciaux dans l&#x27;élaboration du système de jeu. La caméra peut être subjective (le joueur voit par les yeux du personnage) ou objective (le joueur voit le personnage qu&#x27;il contrôle). Les commandes sont définies en fonction du dispositif d&#x27;interaction choisi (manette, clavier, souris, interface tactile, etc.) et du niveau de technicité souhaité. Le personnage quant à lui définit les actions que le joueur pourra entreprendre.&lt;&#x2F;p&gt;
+&lt;p&gt;Les mécaniques essentielles à la compréhension du gameplay peuvent être introduites par un tutoriel expliquant notamment les commandes ou à l&#x27;aide d&#x27;une représentation affordante.&lt;&#x2F;p&gt;
+&lt;p&gt;La structure fondamentale du game design est la boucle de gameplay. Elle correspond à un cycle complet d&#x27;amusement (sur une échelle macro ou micro) et se compose d&#x27;un objectif, d&#x27;un chalenge et d&#x27;une récompense.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;typologie&quot;&gt;Typologie&lt;&#x2F;h2&gt;
+&lt;p&gt;Les jeux, notamment les jeux vidéo, peuvent se classer en différents genres, en fonction de leurs thèmes ou de ce qu&#x27;ils sollicitent chez le joueur (réflexes, attention, stratégie, etc.) ou encore du type d&#x27;interaction (RPG, FPS, etc.).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;motivations-du-joueur&quot;&gt;Motivations du joueur&lt;&#x2F;h2&gt;
+&lt;p&gt;Les motivations du joueur pour progresser dans un jeu sont variées : il peut s&#x27;agir d&#x27;une envie de surmonter un défi (pouvant être défini selon une courbe de difficulté) ou encore le désir de suivre l&#x27;évolution d&#x27;un scénario jusqu&#x27;à son dénouement. La découverte de nouvelles mécaniques de jeu au fur et à mesure que la partie progresse est également un facteur de motivation et peut être décrite selon une courbe d&#x27;apprentissage.&lt;&#x2F;p&gt;
+&lt;p&gt;Le niveau de récompense attendu est un élément de motivation important pour le joueur. Parmi les récompenses, on peut citer :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;les retours visuels et sonores (ou feedbacks)8, par exemple les effets visuels explosifs (Call of Duty, Fruit Ninja).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;recevoir un objet à collectionner10 (exemples : Pokémon, badges ou trophées représentant un succès) ;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;le sentiment de puissance11 (exemples : bonus « étoile » rendant invincible Mario, dernière amélioration du pistolet anti-gravité dans Half-Life 2) ;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;le sentiment de parachèvement12 (exemple : cinématique de fin dans un jeu Final Fantasy) ;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;une émotion13 comme le sentiment de vitesse (exemples : Sonic the Hedgehog, Burnout) ou l&#x27;empathie face à un choix moral14 (exemples : les visual novels, The Walking Dead) ;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;battre un adversaire ou aider un autre joueur. Le partage de l&#x27;expérience de jeu avec des amis ou des inconnus est notamment au cœur des jeux de société. Elle est devenue partie intégrante des jeux vidéo avec l&#x27;apparition des jeux sociaux au début des années 2010 même si de nombreux jeux proposaient une expérience multijoueur dès leur invention. Les mécaniques alors mises en jeu peuvent être la compétition (au centre des jeux de combat par exemple) ou la collaboration (jeux de construction tels que Minecraft ou mécanique de cadeaux entre joueurs comme dans Candy Crush Saga).&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;metiers-associes&quot;&gt;Métiers associés&lt;&#x2F;h2&gt;
+&lt;p&gt;Concepteur de jeux (game designer) est le métier associé à la conception de jeux. Dans le cas des jeux vidéo, secteur auquel le terme est plus particulièrement associé, le concepteur peut se spécialiser et être :&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;concepteur de scénarios (gameplay designer), s&#x27;il conçoit le scénario et les règles du jeu ;[réf. nécessaire]&lt;&#x2F;li&gt;
+&lt;li&gt;concepteur de décors (background designer), s&#x27;il conçoit principalement l&#x27;univers du jeu ;&lt;&#x2F;li&gt;
+&lt;li&gt;concepteur de personnages (character designer), s&#x27;il construit les personnages ;&lt;&#x2F;li&gt;
+&lt;li&gt;economic designer, s&#x27;il est responsable des mécaniques de la monétisation du jeu ;&lt;&#x2F;li&gt;
+&lt;li&gt;concepteur de niveaux (level designer), s&#x27;il est chargé d&#x27;inventer les niveaux du jeu ;&lt;&#x2F;li&gt;
+&lt;li&gt;ergonome (GUI designer), s&#x27;il est spécialisé dans les interface graphiques.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Il travaille généralement en relation étroite avec un directeur artistique, parfois sous la houlette d&#x27;un directeur de création. Il peut également être lui-même scénariste (story designer) ou travailler avec un scénariste dont la mission plus spécifique sera l&#x27;invention d&#x27;un scénario et l&#x27;écriture des différents textes du jeu (dont les dialogues).&lt;&#x2F;p&gt;
+&lt;p&gt;Certains concepteurs de jeux, dits éditoriaux, sont chez l&#x27;éditeur pour vérifier que les productions suivent la ligne éditoriale établie.&lt;&#x2F;p&gt;
+&lt;p&gt;En entreprise, le game designer est amené à proposer des concepts originaux dans un faisceau de contraintes liées à la technique ou au marketing.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
