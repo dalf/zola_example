@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://abridge.netlify.app/</loc>
+        <loc>https://dalf.github.io/zola_example/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/about/</loc>
+        <loc>https://dalf.github.io/zola_example/about/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/archive/</loc>
+        <loc>https://dalf.github.io/zola_example/archive/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/blog/</loc>
+        <loc>https://dalf.github.io/zola_example/blog/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/contact/</loc>
+        <loc>https://dalf.github.io/zola_example/contact/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/game-design/</loc>
+        <loc>https://dalf.github.io/zola_example/game-design/</loc>
         <lastmod>2024-09-13T08:05:00Z</lastmod>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/l-age-d-or-du-metroidvania/</loc>
+        <loc>https://dalf.github.io/zola_example/l-age-d-or-du-metroidvania/</loc>
         <lastmod>2024-11-30T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/le-backseat-des-jeux-modernes/</loc>
+        <loc>https://dalf.github.io/zola_example/le-backseat-des-jeux-modernes/</loc>
         <lastmod>2023-05-02T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/luigi-s-mansion/</loc>
+        <loc>https://dalf.github.io/zola_example/luigi-s-mansion/</loc>
         <lastmod>2022-07-22T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/majora-s-mask/</loc>
+        <loc>https://dalf.github.io/zola_example/majora-s-mask/</loc>
         <lastmod>2023-05-27T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/offline/</loc>
+        <loc>https://dalf.github.io/zola_example/offline/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/page/1/</loc>
+        <loc>https://dalf.github.io/zola_example/page/1/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/page/2/</loc>
+        <loc>https://dalf.github.io/zola_example/page/2/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/pokemon-noir-2-et-blanc-2/</loc>
+        <loc>https://dalf.github.io/zola_example/pokemon-noir-2-et-blanc-2/</loc>
         <lastmod>2023-05-27T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/pokemon-noir-et-blanc/</loc>
+        <loc>https://dalf.github.io/zola_example/pokemon-noir-et-blanc/</loc>
         <lastmod>2023-05-27T00:00:00Z</lastmod>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/privacy/</loc>
+        <loc>https://dalf.github.io/zola_example/privacy/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/tags/</loc>
+        <loc>https://dalf.github.io/zola_example/tags/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/tags/esquive-la-boule-de-feu/</loc>
+        <loc>https://dalf.github.io/zola_example/tags/esquive-la-boule-de-feu/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/tags/game-next-door/</loc>
+        <loc>https://dalf.github.io/zola_example/tags/game-next-door/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/tags/la-fin-du-game/</loc>
+        <loc>https://dalf.github.io/zola_example/tags/la-fin-du-game/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/tags/wikipedia/</loc>
+        <loc>https://dalf.github.io/zola_example/tags/wikipedia/</loc>
     </url>
     <url>
-        <loc>https://abridge.netlify.app/the-legend-of-zelda/</loc>
+        <loc>https://dalf.github.io/zola_example/the-legend-of-zelda/</loc>
         <lastmod>2023-05-27T00:00:00Z</lastmod>
     </url>
 </urlset>

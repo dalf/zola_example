@@ -1,5 +1,5 @@
 
-Sitemap: https://abridge.netlify.app/sitemap.xml
+Sitemap: https://dalf.github.io/zola_example/sitemap.xml
 User-Agent: *
 Allow: /
-Host: https://abridge.netlify.app
+Host: https://dalf.github.io/zola_example

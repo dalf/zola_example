@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Game Design</title>
     <subtitle>Quelques pages à propos du game design.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://abridge.netlify.app/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://abridge.netlify.app"/>
+    <link rel="self" type="application/atom+xml" href="https://dalf.github.io/zola_example/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-11-30T00:00:00+00:00</updated>
-    <id>https://abridge.netlify.app/atom.xml</id>
+    <id>https://dalf.github.io/zola_example/atom.xml</id>
     <entry xml:lang="en">
         <title>L&#x27;âge d&#x27;or du Metroidvania</title>
         <published>2024-11-30T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/l-age-d-or-du-metroidvania/"/>
-        <id>https://abridge.netlify.app/l-age-d-or-du-metroidvania/</id>
+        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/l-age-d-or-du-metroidvania/"/>
+        <id>https://dalf.github.io/zola_example/l-age-d-or-du-metroidvania/</id>
         
-        <content type="html" xml:base="https://abridge.netlify.app/l-age-d-or-du-metroidvania/">&lt;h2 id=&quot;game-next-door&quot;&gt;Game Next Door&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://dalf.github.io/zola_example/l-age-d-or-du-metroidvania/">&lt;h2 id=&quot;game-next-door&quot;&gt;Game Next Door&lt;&#x2F;h2&gt;
 &lt;div class=&quot;yv&quot;&gt;
     &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;UQ0gMrQLDRg&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
 &lt;&#x2F;div&gt;
@@ -79,10 +79,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/game-design/"/>
-        <id>https://abridge.netlify.app/game-design/</id>
+        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/game-design/"/>
+        <id>https://dalf.github.io/zola_example/game-design/</id>
         
-        <content type="html" xml:base="https://abridge.netlify.app/game-design/">&lt;p&gt;Le game design — en français la conception de jeux — est le processus de création et de mise au point des règles et autres éléments constitutifs d&#x27;un jeu. L&#x27;expression, qui s&#x27;applique à tout type de jeu, dont les jeux de société et les jeux de cartes, a connu un regain d&#x27;intérêt à la suite de l&#x27;apparition et de la popularisation des jeux vidéo.&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://dalf.github.io/zola_example/game-design/">&lt;p&gt;Le game design — en français la conception de jeux — est le processus de création et de mise au point des règles et autres éléments constitutifs d&#x27;un jeu. L&#x27;expression, qui s&#x27;applique à tout type de jeu, dont les jeux de société et les jeux de cartes, a connu un regain d&#x27;intérêt à la suite de l&#x27;apparition et de la popularisation des jeux vidéo.&lt;&#x2F;p&gt;
 &lt;aside&gt;
 &lt;&#x2F;aside&gt;
 &lt;h2 id=&quot;historique&quot;&gt;Historique&lt;&#x2F;h2&gt;
@@ -146,10 +146,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/majora-s-mask/"/>
-        <id>https://abridge.netlify.app/majora-s-mask/</id>
+        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/majora-s-mask/"/>
+        <id>https://dalf.github.io/zola_example/majora-s-mask/</id>
         
-        <content type="html" xml:base="https://abridge.netlify.app/majora-s-mask/">&lt;h2 id=&quot;esquive-la-boule-de-feu&quot;&gt;Esquive la boule de feu&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://dalf.github.io/zola_example/majora-s-mask/">&lt;h2 id=&quot;esquive-la-boule-de-feu&quot;&gt;Esquive la boule de feu&lt;&#x2F;h2&gt;
 &lt;div class=&quot;yv&quot;&gt;
     &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;rYKxO21WVcE&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
 &lt;&#x2F;div&gt;
@@ -178,10 +178,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/pokemon-noir-2-et-blanc-2/"/>
-        <id>https://abridge.netlify.app/pokemon-noir-2-et-blanc-2/</id>
+        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/pokemon-noir-2-et-blanc-2/"/>
+        <id>https://dalf.github.io/zola_example/pokemon-noir-2-et-blanc-2/</id>
         
-        <content type="html" xml:base="https://abridge.netlify.app/pokemon-noir-2-et-blanc-2/">&lt;h2 id=&quot;equive-la-boule-de-feu&quot;&gt;Equive la boule de feu&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://dalf.github.io/zola_example/pokemon-noir-2-et-blanc-2/">&lt;h2 id=&quot;equive-la-boule-de-feu&quot;&gt;Equive la boule de feu&lt;&#x2F;h2&gt;
 &lt;div class=&quot;yv&quot;&gt;
     &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;BGm0EFmlEUc&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
 &lt;&#x2F;div&gt;
@@ -201,10 +201,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/pokemon-noir-et-blanc/"/>
-        <id>https://abridge.netlify.app/pokemon-noir-et-blanc/</id>
+        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/pokemon-noir-et-blanc/"/>
+        <id>https://dalf.github.io/zola_example/pokemon-noir-et-blanc/</id>
         
-        <content type="html" xml:base="https://abridge.netlify.app/pokemon-noir-et-blanc/">&lt;div class=&quot;yv&quot;&gt;
+        <content type="html" xml:base="https://dalf.github.io/zola_example/pokemon-noir-et-blanc/">&lt;div class=&quot;yv&quot;&gt;
     &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;fhutgmD77N0&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
 &lt;&#x2F;div&gt;
 </content>
@@ -223,10 +223,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/the-legend-of-zelda/"/>
-        <id>https://abridge.netlify.app/the-legend-of-zelda/</id>
+        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/the-legend-of-zelda/"/>
+        <id>https://dalf.github.io/zola_example/the-legend-of-zelda/</id>
         
-        <content type="html" xml:base="https://abridge.netlify.app/the-legend-of-zelda/">&lt;div class=&quot;yv&quot;&gt;
+        <content type="html" xml:base="https://dalf.github.io/zola_example/the-legend-of-zelda/">&lt;div class=&quot;yv&quot;&gt;
     &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;-RP1QtM4wyY&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
 &lt;&#x2F;div&gt;
 </content>
@@ -245,10 +245,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/le-backseat-des-jeux-modernes/"/>
-        <id>https://abridge.netlify.app/le-backseat-des-jeux-modernes/</id>
+        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/le-backseat-des-jeux-modernes/"/>
+        <id>https://dalf.github.io/zola_example/le-backseat-des-jeux-modernes/</id>
         
-        <content type="html" xml:base="https://abridge.netlify.app/le-backseat-des-jeux-modernes/">&lt;h2 id=&quot;game-next-door&quot;&gt;Game Next Door&lt;&#x2F;h2&gt;
+        <content type="html" xml:base="https://dalf.github.io/zola_example/le-backseat-des-jeux-modernes/">&lt;h2 id=&quot;game-next-door&quot;&gt;Game Next Door&lt;&#x2F;h2&gt;
 &lt;div class=&quot;yv&quot;&gt;
     &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;Ut75wj-aifU&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
 &lt;&#x2F;div&gt;
@@ -271,10 +271,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://abridge.netlify.app/luigi-s-mansion/"/>
-        <id>https://abridge.netlify.app/luigi-s-mansion/</id>
+        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/luigi-s-mansion/"/>
+        <id>https://dalf.github.io/zola_example/luigi-s-mansion/</id>
         
-        <content type="html" xml:base="https://abridge.netlify.app/luigi-s-mansion/">&lt;div class=&quot;yv&quot;&gt;
+        <content type="html" xml:base="https://dalf.github.io/zola_example/luigi-s-mansion/">&lt;div class=&quot;yv&quot;&gt;
     &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;y1i2fk4N0v4&amp;amp;&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.metacritic.com&#x2F;game&#x2F;luigis-mansion&#x2F;&quot;&gt;Metacritic&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
