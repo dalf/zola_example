@@ -281,4 +281,23 @@
 </content>
         
     </entry>
+    <entry xml:lang="en">
+        <title>Mortelle Randonnée</title>
+        <published>2022-07-22T00:00:00+00:00</published>
+        <updated>2022-07-22T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/mortellerandonnee/"/>
+        <id>https://dalf.github.io/zola_example/mortellerandonnee/</id>
+        
+        <content type="html" xml:base="https://dalf.github.io/zola_example/mortellerandonnee/"></content>
+        
+    </entry>
 </feed>
