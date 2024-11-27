@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>Game Design - Esquive les flêches ou meurs !</title>
+    <title>Game Design - Esquive les flêches ou meurs pour l&#x27;éternité !</title>
     <subtitle>Quelques pages à propos du game design.</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://dalf.github.io/zola_example/tags/esquive-les-fleches-ou-meurs/atom.xml"/>
+    <link rel="self" type="application/atom+xml" href="https://dalf.github.io/zola_example/tags/esquive-les-fleches-ou-meurs-pour-l-eternite/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2022-07-22T00:00:00+00:00</updated>
-    <id>https://dalf.github.io/zola_example/tags/esquive-les-fleches-ou-meurs/atom.xml</id>
+    <id>https://dalf.github.io/zola_example/tags/esquive-les-fleches-ou-meurs-pour-l-eternite/atom.xml</id>
     <entry xml:lang="en">
         <title>Mortelle Randonnée</title>
         <published>2022-07-22T00:00:00+00:00</published>
