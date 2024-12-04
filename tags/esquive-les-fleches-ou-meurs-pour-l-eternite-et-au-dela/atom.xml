@@ -24,14 +24,13 @@
         <id>https://dalf.github.io/zola_example/mortellerandonnee/</id>
         
         <content type="html" xml:base="https://dalf.github.io/zola_example/mortellerandonnee/">&lt;h1 id=&quot;1er-niveau&quot;&gt;1er niveau&lt;&#x2F;h1&gt;
-&lt;!-- Code en HTML --&gt; 
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt; Many resources could be used, including 
 &lt;a href=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;&quot; rel=&quot;noreferrer&quot;&gt;this link&lt;&#x2F;a&gt;. &lt;br&gt;&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;2eme-niveau&quot;&gt;2ème niveau&lt;&#x2F;h1&gt;
 &lt;p&gt;Essayons de prendre quelque &lt;em&gt;notes&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;3eme-niveau&quot;&gt;3ème niveau&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;strong&gt;Voici un texte en gras qui doit apparaître en gras. &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Image&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
 &lt;li id=&quot;fn-1&quot;&gt;
 &lt;p&gt;la note ! &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
