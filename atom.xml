@@ -157,7 +157,7 @@
 &lt;p&gt;Essayons de prendre quelque &lt;em&gt;notes&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
 &lt;h1 id=&quot;3eme-niveau&quot;&gt;3ème niveau&lt;&#x2F;h1&gt;
 &lt;p&gt;&lt;strong&gt;Voici un texte en gras qui doit apparaître en gras. &lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;tota&lt;&#x2F;p&gt;
+&lt;p&gt;Voici un &lt;em&gt;cite&lt;&#x2F;em&gt; &lt;strong&gt;intéressant&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
 &lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
 &lt;li id=&quot;fn-1&quot;&gt;
 &lt;p&gt;la note ! &lt;a href=&quot;#fr-1-1&quot;&gt;↩&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
