@@ -3,9 +3,11 @@
 Utilise [Zola](https://www.getzola.org/).
 
 * [Procédure d'installation](https://www.getzola.org/documentation/getting-started/installation/)
-* Procédure d'installation sur les PC à la HEG:
-    * Démarrer powershell
-    * Exécuter `.\install.ps1`
+* Procédure d'installation sur Windows:
+    * Démarrer cmd.exe (invite de commande)
+    * Exécuter `.\install.bat`
+* Procédure d'installation sur MacOS et Linux:
+    * Exécuter `.\install.sh`
 
 ## Structure
 
@@ -41,7 +43,7 @@ Pour faire simple, il suffit de reprendre les exemples existants.
 
 ## Démarrer le serveur
 
-`.\zola serve`
+`zola serve`
 
 Puis ouvrir la page <http://127.0.0.1:1111> comme indiqué.
 
@@ -51,7 +53,7 @@ Note: en dehors des PC à la HEG il suffit d'écrire `zola serve` sans `.\`.
 
 ## Compiler le site
 
-`.\zola build`
+`zola build`
 
 Tout le contenu est dans le répertoire `public`
 
