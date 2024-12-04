@@ -30,8 +30,17 @@ Essayons de prendre quelque *notes*.
 **Voici un texte en gras qui doit apparaître en gras. [^1]**
 
 
+|col 1|col 2|col 3|
+-------------------
+|col 1|col 2|col 3|
+
+
+
 [^1]: la note !
 
 Voici un *cite* **intéressant**. 
+
+
+
 
 
