@@ -134,6 +134,57 @@
         
     </entry>
     <entry xml:lang="en">
+        <title>Mortelle Randonnée</title>
+        <published>2024-07-22T00:00:00+00:00</published>
+        <updated>2024-07-22T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/mortellerandonnee/"/>
+        <id>https://dalf.github.io/zola_example/mortellerandonnee/</id>
+        
+        <content type="html" xml:base="https://dalf.github.io/zola_example/mortellerandonnee/">&lt;p&gt; Many resources could be used, including 
+&lt;a href=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;&quot; rel=&quot;noreferrer&quot;&gt;this link&lt;&#x2F;a&gt;. &lt;br&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Essayons de prendre quelque &lt;em&gt;notes&lt;&#x2F;em&gt; !&lt;&#x2F;p&gt;
+&lt;p&gt;Voici un &amp;gt; italique !&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Logo&quot; title=&quot;Logo de SIBiLS&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;[taxonomies]
+tags = [&quot;Esquive les flèches ou meurs pour l&#x27;éternité et au-delà !&quot;]&lt;&#x2F;p&gt;
+&lt;p&gt;[extra]
+toc = true
++++&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The Legend of Zelda: Tears of the Kingdom</title>
+        <published>2024-03-12T00:00:00+00:00</published>
+        <updated>2024-03-12T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/the-legend-of-zelda/"/>
+        <id>https://dalf.github.io/zola_example/the-legend-of-zelda/</id>
+        
+        <content type="html" xml:base="https://dalf.github.io/zola_example/the-legend-of-zelda/">&lt;div class=&quot;yv&quot;&gt;
+    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;-RP1QtM4wyY&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
         <title>Majora&#x27;s Mask</title>
         <published>2023-05-27T00:00:00+00:00</published>
         <updated>2023-05-27T00:00:00+00:00</updated>
@@ -211,28 +262,6 @@
         
     </entry>
     <entry xml:lang="en">
-        <title>The Legend of Zelda: Tears of the Kingdom</title>
-        <published>2023-05-27T00:00:00+00:00</published>
-        <updated>2023-05-27T00:00:00+00:00</updated>
-        
-        <author>
-          <name>
-            
-              Unknown
-            
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/the-legend-of-zelda/"/>
-        <id>https://dalf.github.io/zola_example/the-legend-of-zelda/</id>
-        
-        <content type="html" xml:base="https://dalf.github.io/zola_example/the-legend-of-zelda/">&lt;div class=&quot;yv&quot;&gt;
-    &lt;iframe src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;-RP1QtM4wyY&quot; title=&quot;Youtube&quot; class=&quot;yvi&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;&#x2F;iframe&gt;
-&lt;&#x2F;div&gt;
-</content>
-        
-    </entry>
-    <entry xml:lang="en">
         <title>Le BACKSEAT des jeux modernes</title>
         <published>2023-05-02T00:00:00+00:00</published>
         <updated>2023-05-02T00:00:00+00:00</updated>
@@ -279,25 +308,6 @@
 &lt;&#x2F;div&gt;
 &lt;p&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.metacritic.com&#x2F;game&#x2F;luigis-mansion&#x2F;&quot;&gt;Metacritic&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>
-        
-    </entry>
-    <entry xml:lang="en">
-        <title>Mortelle Randonnée</title>
-        <published>2022-07-22T00:00:00+00:00</published>
-        <updated>2022-07-22T00:00:00+00:00</updated>
-        
-        <author>
-          <name>
-            
-              Unknown
-            
-          </name>
-        </author>
-        
-        <link rel="alternate" type="text/html" href="https://dalf.github.io/zola_example/mortellerandonnee/"/>
-        <id>https://dalf.github.io/zola_example/mortellerandonnee/</id>
-        
-        <content type="html" xml:base="https://dalf.github.io/zola_example/mortellerandonnee/"></content>
         
     </entry>
 </feed>
