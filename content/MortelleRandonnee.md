@@ -17,6 +17,9 @@ toc = true
 
 ![Image](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png) 
 
+![Image wikipedia](https://en.wikipedia.org/static/images/icons/wikipedia.png) 
+
+
 <p> Many resources could be used, including 
 <a href="https://biodiversitypmc.sibils.org/" rel="noreferrer">this link</a>. <br></p>
 
@@ -25,12 +28,6 @@ toc = true
 Essayons de prendre quelque *notes*.
 
 # 3ème niveau
-
-
-|col 1|col 2|col 3|
--------------------
-|col 1|col 2|col 3|
-
 
 
 [^1]: la note !
