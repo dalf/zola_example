@@ -32,5 +32,6 @@ Essayons de prendre quelque *notes*.
 
 [^1]: la note !
 
+Voici un *cite* **intéressant**. 
 
-tota
+
