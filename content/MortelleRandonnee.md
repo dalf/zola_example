@@ -11,7 +11,6 @@ tags = ["Esquive les flèches ou meurs pour l'éternité et au-delà !"]
 [extra]
 toc = true
 
-
 +++
 
 # 1er niveau
@@ -26,8 +25,6 @@ toc = true
 Essayons de prendre quelque *notes*.
 
 # 3ème niveau
-
-**Voici un texte en gras qui doit apparaître en gras. [^1]**
 
 
 |col 1|col 2|col 3|
