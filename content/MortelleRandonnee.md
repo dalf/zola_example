@@ -30,8 +30,7 @@ Essayons de prendre quelque *notes* !
 
 # 3ème niveau
 
-
-[^1]: la note !
+[^1]: la note de bas de page !
 
 Voici un *cite* **intéressant**. 
 
