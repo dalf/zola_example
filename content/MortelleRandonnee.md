@@ -26,7 +26,7 @@ toc = true
 
 # 2ème niveau
 
-Essayons de prendre quelque *notes*.
+Essayons de prendre quelque *notes* !
 
 # 3ème niveau
 
