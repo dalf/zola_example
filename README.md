@@ -2,12 +2,12 @@
 
 Utilise [Zola](https://www.getzola.org/).
 
-* [Procédure d'installation](https://www.getzola.org/documentation/getting-started/installation/)
-* Procédure d'installation sur Windows:
-    * Démarrer cmd.exe (invite de commande)
-    * Exécuter `.\install.bat`
-* Procédure d'installation sur MacOS et Linux:
-    * Exécuter `.\install.sh`
+- [Procédure d'installation](https://www.getzola.org/documentation/getting-started/installation/)
+- Procédure d'installation sur Windows:
+  - Démarrer cmd.exe (invite de commande)
+  - Exécuter `.\install.bat`
+- Procédure d'installation sur MacOS et Linux:
+  - Exécuter `.\install.sh`
 
 ## Structure
 
@@ -66,3 +66,4 @@ Avant le premier commit, aller dans "Settings", puis "Actions", "Général", et 
 ## Modif de test
 
 ....
+modif dans une branche
