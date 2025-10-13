@@ -2,12 +2,12 @@
 
 Utilise [Zola](https://www.getzola.org/).
 
-* [Procédure d'installation](https://www.getzola.org/documentation/getting-started/installation/)
-* Procédure d'installation sur Windows:
-    * Démarrer cmd.exe (invite de commande)
-    * Exécuter `.\install.bat`
-* Procédure d'installation sur MacOS et Linux:
-    * Exécuter `.\install.sh`
+- [Procédure d'installation](https://www.getzola.org/documentation/getting-started/installation/)
+- Procédure d'installation sur Windows:
+  - Démarrer cmd.exe (invite de commande)
+  - Exécuter `.\install.bat`
+- Procédure d'installation sur MacOS et Linux:
+  - Exécuter `.\install.sh`
 
 ## Structure
 
@@ -62,6 +62,11 @@ Tout le contenu est dans le répertoire `public`
 Le projet peut être forké: le site sera automatiquement construit dans le fork.
 
 Avant le premier commit, aller dans "Settings", puis "Actions", "Général", et dans la section "Workflow permissions", choisir "Read and write permissions ".
+
+## Modif de test
+
+....
+modif dans une branche
 
 ## Test ajout
 
