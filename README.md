@@ -1,4 +1,4 @@
-# Exemple de site statique
+# Exemple de site statique avec Zola !
 
 Utilise [Zola](https://www.getzola.org/).
 
